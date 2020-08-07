@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32A"</DEVICE>
+ <WORKING_DIR>D:\Algorithms\AVR\LPF\LPF\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>D:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Algorithms\AVR\LPF\LPF\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m32adef.inc</FILE>
+  <FILE>D:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\M32ADEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Algorithms\AVR\LPF\LPF\Debug\LPF.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LPF.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LPF.map</FILE>
+  <FILE>LPF.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>D:\Algorithms\AVR\LPF\LPF\main.asm</FILE><LINE>52</LINE></MAIN>
+  <TIMER_INT_HANDLER><FILE>D:\Algorithms\AVR\LPF\LPF\main.asm</FILE><LINE>93</LINE></TIMER_INT_HANDLER>
+  <ADC_INT_HANDLER><FILE>D:\Algorithms\AVR\LPF\LPF\main.asm</FILE><LINE>97</LINE></ADC_INT_HANDLER>
+  <DO_NOTHING><FILE>D:\Algorithms\AVR\LPF\LPF\main.asm</FILE><LINE>90</LINE></DO_NOTHING>
+ </LABELS>
+</ASSEMBLER_INFO>
